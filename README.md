@@ -13,7 +13,7 @@ Data is pulled from the following locations:
 
 - [The American Community Survey from the U.S. census](https://www.census.gov/programs-surveys/acs)
   - Information for variables on occupation, migration status, and healthcare status.
-- [The EPA's Re-powering mapper](https://www.epa.gov/re-powering/mapper-technical-document_
+- [The EPA's Re-powering mapper](https://www.epa.gov/re-powering/mapper-technical-document)
   - Information for the variables on clean energy viability on brownfield sites used to create the Clean energy viability index
 - NRDC's enriched EJ dataset
   - For geocoded information on the remaining variables in the sociodemographic index.
