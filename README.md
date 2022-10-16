@@ -30,6 +30,7 @@ The two indices are created using the following variables:
   - Distance to nearest substation
   - Distance to nearest road
   - Distance to nearest railroad
+  - Distance to nearest transmission line
   
  - Sociodemographic Vulnerabiltiy index:
   - % People of color
