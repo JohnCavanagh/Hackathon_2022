@@ -49,4 +49,4 @@ The two indices are created using the following variables:
 Indices are created by standardizing the variables, making sure all signs are such that an increase in the standardized version makes the index more likely to be targeted (i.e., increases in clean energy viability or increases in the likelihood of benefit. Indices are calculated using the procedure outlined in [Schwab et al. 2020](http://www.stata-journal.com/article.html?article=st0622).
 
 
-
+Data used in the exercise can be made available upon request and permission from the NRDC.
